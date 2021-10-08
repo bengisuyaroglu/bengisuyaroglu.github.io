@@ -8,32 +8,32 @@ version: 2
 # Personal info
 name: "Bengisu Yaroğlu"
 title: Biomedical Engineer
-email: contact@soneralbayrak.com
+email: bngsuyaroglu@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: albayraks
-github_username:  soneralbayrak
-stackoverflow_username: "12324104"
+twitter_username: BengisuYa
+# github_username:  soneralbayrak
+# stackoverflow_username: "12324104"
 # dribbble_username: jekyll
-facebook_username: albayraksoner
+facebook_username: bengisu.yaroglu
 # flickr_username: jekyll
-instagram_username: "snr_albayrak"
-linkedin_username: soneralbayrak
+instagram_username: "BengisuY"
+linkedin_username: "bengisu-yaroğlu-9794a3113"
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: :Soner Albayrak"
+# youtube_username: :Soner Albayrak"
 # googleplus_username: +jekyll
-orcid_username: 0000-0002-9223-0115
+# orcid_username: 0000-0002-9223-0115
 
 # Additional icon links
 additional_links:
-- title: Inspirehep Profile
-  icon: fas fa-scroll
-  url: https://inspirehep.net/authors/1375262
+- title: Skype
+  icon: fa-brands fa-skype
+  url: https://join.skype.com/invite/BZ8hOithV5Rv
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/SA.jpg
+about_profile_image: images/BA.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome to this site! I'm a theoretical physicist and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!
+  Welcome to this site! I'm a biomedical engineer and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!
 
   Cheers!
 
@@ -61,17 +61,17 @@ content:
         # link_text: boringcompany.com
         sub_title: Professional
         description: | # this will include new lines to allow paragraphs
-            - Interested in cosmology, conformal bootstrap, and holography
-            - Postdoctoral researcher in the string theory group at the University of Amsterdam
-            - Received PhD from Yale University
-            - <a href="https://docs.google.com/viewer?url=https://github.com/soneralbayrak/resume/raw/acbe71f617faf6ffc15d760162d68b2fe9e90206/soner_albayrak_resume.pdf" target="_blank">CV</a> 
+            - Currently looking for an opportunity to work in biomedical optics, tissue engineering, or related applications of engineering in medical fields
+            - Has experience with calibration, medical imaging, and hospital usage of medical instruments
+            - Received Bachelor from Başkent University
+            - CV
       - layout: left
         sub_title: Personal 
         description: |
-            - Casual anime fan (AoT, FMA)
-            - Casual strategy gamer (EU, HoI, Civilization)
-            - Sporadic youtuber
-            - Ex-engineer
+            - Semi-professional interest in Music (singed in various groups, organized concerts, and is proficient with guitar and ukulele)
+            - A photographer (predominantly nature photography)
+            - Deeply interested in Archeology (primarily pre-bronz age eras) 
+            - Social activist
 
   - title: Further Content # Title for the section
     layout: list # Type of content section (list/text)
