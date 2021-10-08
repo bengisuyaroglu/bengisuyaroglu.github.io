@@ -32,7 +32,7 @@ linkedin_username: "bengisu-yaroğlu-9794a3113"
 # Additional icon links
 additional_links:
 - title: Skype
-  icon: fa-brands fa-skype
+  icon: fab fa-skype
   url: https://join.skype.com/invite/BZ8hOithV5Rv
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -77,8 +77,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "Blog (Turkish & English)"
-        link: https://campuspress.yale.edu/soneralbayrak/
+        title: "Scenes from World"
+        link: https://www.instagram.com/akashananna/
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -88,7 +88,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-         I use this blog mostly for personal archieve of interesting stuff I stumble upon!
+         I use this account to share the world I see through the viewfinder of my camera!
         #description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and
 
