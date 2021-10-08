@@ -91,7 +91,7 @@ content:
          I use this account to share the world I see through the viewfinder of my camera!
         description: | # this will include new lines to allow paragraphs
           Here is a picture of the baby *Loggerhead sea turtle*, a threatened species that find shelter in the Aegean beaches of Turkey!
-          <img src="images\baby.jpg" alt="drawing" width="350"/>
+          <img src="images\baby.jpg" alt="drawing" width="350" class="center"/>
    
         #  I started this project as a way if learning <mark>React</mark> and
 
